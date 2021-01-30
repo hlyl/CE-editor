@@ -1,5 +1,6 @@
 # Dayz Loot DataBase
 A Database solution to manage the Loot distribution for multiple mods in one database solution. 
+Credit goes to VincentSchmid: https://github.com/VincentSchmid/LootEditor
 
 DayZ Loot DataBase for types.xml.
 This solution helps with ordering and balancing the editing of Loot when you have more mods on the server.
