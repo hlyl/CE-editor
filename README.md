@@ -1,4 +1,7 @@
 # Dayz Loot DataBase
+
+Issues, bugs and news: https://discord.gg/6NSHUHB5au
+
 A Database solution to manage the Loot distribution for multiple mods in one database solution.
 
 Credit goes to VincentSchmid: https://github.com/VincentSchmid/LootEditor
