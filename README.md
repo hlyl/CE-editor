@@ -1,12 +1,12 @@
-# Dayz Loot DataBase
+# CE-Editor
 
-Issues, bugs and news: https://discord.gg/6NSHUHB5au
+Issues, bugs and news: https://discord.gg/MsB4Wyd3gt
 
 A Database solution to manage the Loot distribution for multiple mods in one database solution.
 
 Credit goes to VincentSchmid: https://github.com/VincentSchmid/LootEditor
 
-DayZ Loot DataBase for types.xml.
+CE-Editor for types.xml.
 This solution helps with ordering and balancing the editing of Loot when you have more mods on the server.
 It is possible to have a good central over view of the different mods and also do distribute the loot accross the different Mods, Tiers and categories
 
