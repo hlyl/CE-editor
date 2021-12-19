@@ -28,7 +28,7 @@ Built upon a SQLite database that will be automatically generated.
 ## Install
 1. Now download the zip-file
 1. Unpack
-1. Run the `DayZ_LootEditor.exe`
+1. Run the `Release.exe`
 
 ## First Startup
 On startup, you will see the defaul Charnarus.db loaded
@@ -47,7 +47,8 @@ In the top right corner, there are 3 drop-down's that can be used to filter the 
 
 * Category
 * Items
-* Sub types  
+* Sub types
+* Usage (in the latest version you can also filter based on usage types)  
 
 Enter a keyword in the Name entry top left and press the filter by name button.
 
