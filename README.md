@@ -2,6 +2,10 @@
 
 Issues, bugs and news: https://discord.gg/MsB4Wyd3gt
 
+If you want to contribute, PR's can be made to the code here:
+https://github.com/christianbomholt/dayz_loot_editor
+
+
 A Database solution to manage the Loot distribution for multiple mods in one database solution.
 
 Credit goes to VincentSchmid: https://github.com/VincentSchmid/LootEditor
